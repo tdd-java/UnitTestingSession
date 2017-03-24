@@ -15,5 +15,5 @@ public class EvenOddTest {
         EvenOddNumber evenOdd = new EvenOddNumber(3);
         assertFalse(evenOdd.isEven());
     }
-    
+
 }
